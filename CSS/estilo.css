@@ -1,0 +1,23 @@
+.centrar_texto {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.imagen{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.colorbackground{
+    background-color: rgb(29, 29, 29);
+}
+
+.separacion {
+    margin-top: 20px;
+}
+
+.info_texto{
+    background-color: rgb(31, 31, 31);
+    color: rgb(255, 255, 255);
+}
